@@ -1,0 +1,39 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34607.119
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ref and Vol", "Ref and Vol\Ref and Vol.csproj", "{61198803-4181-4658-8E53-6C9D4B55FD69}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Lesson", "Lesson", "{88AD4E00-528C-43DD-8955-FAB4078A77C2}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "HW", "HW", "{5B9EFD11-E998-4A8D-8860-4A320253BE1B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3D Vector", "3D Vector\3D Vector.csproj", "{D1AC33B1-8FF2-450A-B92C-01EE67267AD4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{61198803-4181-4658-8E53-6C9D4B55FD69}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61198803-4181-4658-8E53-6C9D4B55FD69}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61198803-4181-4658-8E53-6C9D4B55FD69}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61198803-4181-4658-8E53-6C9D4B55FD69}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D1AC33B1-8FF2-450A-B92C-01EE67267AD4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1AC33B1-8FF2-450A-B92C-01EE67267AD4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1AC33B1-8FF2-450A-B92C-01EE67267AD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1AC33B1-8FF2-450A-B92C-01EE67267AD4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{61198803-4181-4658-8E53-6C9D4B55FD69} = {88AD4E00-528C-43DD-8955-FAB4078A77C2}
+		{D1AC33B1-8FF2-450A-B92C-01EE67267AD4} = {5B9EFD11-E998-4A8D-8860-4A320253BE1B}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5F6B1C8C-39B0-4914-8C54-D39100A685F4}
+	EndGlobalSection
+EndGlobal
