@@ -50,22 +50,22 @@
         {
             float min = 0;
             float max = a;
-            float result = Rootbody(a, min, max);
+            float result = Rootrec(a, min, max);
             return result;
         }
-        private static float Rootbody(float a, float min, float max)
+        private static float Rootrec(float a, float min, float max)
         {
             float average = (min + max) / 2;
             float result = a / average;
             if (Math.Round(result, 6) < Math.Round(average, 6))
             {
                 max = average;
-                result = Rootbody(a, min, max);
+                result = Rootrec(a, min, max);
             }
             if (Math.Round(result, 6) > Math.Round(average, 6))
             {
                 min = average;
-                result = Rootbody(a, min, max);
+                result = Rootrec(a, min, max);
             }
             return result;
         }
