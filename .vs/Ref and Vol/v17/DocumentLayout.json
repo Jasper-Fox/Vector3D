@@ -32,9 +32,10 @@
               "RelativeDocumentMoniker": "Ref and Vol\\Program.cs",
               "ToolTip": "D:\\C#\\Ref and Vol\\Vector3D\\Vector3D\\Ref and Vol\\Program.cs",
               "RelativeToolTip": "Ref and Vol\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAA9AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-24T22:33:18.961Z"
+              "WhenOpened": "2024-02-24T22:33:18.961Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -44,7 +45,7 @@
               "RelativeDocumentMoniker": "3D Vector\\3dVector.cs",
               "ToolTip": "D:\\C#\\Ref and Vol\\Vector3D\\Vector3D\\3D Vector\\3dVector.cs",
               "RelativeToolTip": "3D Vector\\3dVector.cs",
-              "ViewState": "AQIAADAAAAAAAAAAAAAmwEMAAAAgAAAA",
+              "ViewState": "AQIAAEkAAAAAAAAAAAAuwDoAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-02-20T16:08:03.001Z",
               "EditorCaption": ""
@@ -57,7 +58,7 @@
               "RelativeDocumentMoniker": "3D Vector\\View.cs",
               "ToolTip": "D:\\C#\\Ref and Vol\\Vector3D\\Vector3D\\3D Vector\\View.cs",
               "RelativeToolTip": "3D Vector\\View.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAGAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-02-20T16:06:54.018Z",
               "EditorCaption": ""

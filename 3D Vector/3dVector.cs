@@ -1,4 +1,6 @@
-﻿namespace MyMath
+﻿using static System.Runtime.InteropServices.JavaScript.JSType;
+
+namespace MyMath
 {
     public struct Vector3D
     {
@@ -48,10 +50,18 @@
 
         private static float Root(float a)
         {
-            float min = 0;
-            float max = a;
-            float result = Rootrec(a, min, max);
-            return result;
+            if (a < 0)
+            {
+                Console.WriteLine("Incorrect Value");
+                return 0;
+            }
+            else
+            {
+                float min = 0;
+                float max = a;
+                float result = Rootrec(a, min, max);
+                return result;
+            }
         }
         private static float Rootrec(float a, float min, float max)
         {
