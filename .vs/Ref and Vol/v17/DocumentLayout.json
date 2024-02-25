@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "D:\\C#\\Ref and Vol\\Vector3D\\Vector3D\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D1AC33B1-8FF2-450A-B92C-01EE67267AD4}|3D Vector\\3D Vector.csproj|d:\\c#\\ref and vol\\vector3d\\vector3d\\3d vector\\3dvector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D1AC33B1-8FF2-450A-B92C-01EE67267AD4}|3D Vector\\3D Vector.csproj|solutionrelative:3d vector\\3dvector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D1AC33B1-8FF2-450A-B92C-01EE67267AD4}|3D Vector\\3D Vector.csproj|d:\\c#\\ref and vol\\vector3d\\vector3d\\3d vector\\view.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D1AC33B1-8FF2-450A-B92C-01EE67267AD4}|3D Vector\\3D Vector.csproj|solutionrelative:3d vector\\view.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1AC33B1-8FF2-450A-B92C-01EE67267AD4}|3D Vector\\3D Vector.csproj|d:\\c#\\ref and vol\\vector3d\\vector3d\\3d vector\\3dvector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1AC33B1-8FF2-450A-B92C-01EE67267AD4}|3D Vector\\3D Vector.csproj|solutionrelative:3d vector\\3dvector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{61198803-4181-4658-8E53-6C9D4B55FD69}|Ref and Vol\\Ref and Vol.csproj|d:\\c#\\ref and vol\\vector3d\\vector3d\\ref and vol\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -22,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
@@ -34,31 +34,30 @@
               "RelativeToolTip": "Ref and Vol\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAA9AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-24T22:33:18.961Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-24T22:33:18.961Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "3dVector.cs",
               "DocumentMoniker": "D:\\C#\\Ref and Vol\\Vector3D\\Vector3D\\3D Vector\\3dVector.cs",
               "RelativeDocumentMoniker": "3D Vector\\3dVector.cs",
               "ToolTip": "D:\\C#\\Ref and Vol\\Vector3D\\Vector3D\\3D Vector\\3dVector.cs",
               "RelativeToolTip": "3D Vector\\3dVector.cs",
-              "ViewState": "AQIAAEkAAAAAAAAAAAAuwDoAAAANAAAA",
+              "ViewState": "AQIAACsAAAAAAAAAAAAAAEUAAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-02-20T16:08:03.001Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "View.cs",
               "DocumentMoniker": "D:\\C#\\Ref and Vol\\Vector3D\\Vector3D\\3D Vector\\View.cs",
               "RelativeDocumentMoniker": "3D Vector\\View.cs",
               "ToolTip": "D:\\C#\\Ref and Vol\\Vector3D\\Vector3D\\3D Vector\\View.cs",
               "RelativeToolTip": "3D Vector\\View.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAgAAAA",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAACUAAAA7AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-02-20T16:06:54.018Z",
               "EditorCaption": ""

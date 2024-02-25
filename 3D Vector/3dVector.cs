@@ -66,13 +66,13 @@ namespace MyMath
         private static float Rootrec(float a, float min, float max)
         {
             float average = (min + max) / 2;
-            float result = a / average;
-            if (Math.Round(result, 6) < Math.Round(average, 6))
+            float result = a / average;           
+            if (result - average < -0.000001)
             {
                 max = average;
                 result = Rootrec(a, min, max);
             }
-            if (Math.Round(result, 6) > Math.Round(average, 6))
+            if (result - average > 0.000001)
             {
                 min = average;
                 result = Rootrec(a, min, max);
