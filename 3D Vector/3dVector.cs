@@ -1,6 +1,4 @@
-﻿using static System.Runtime.InteropServices.JavaScript.JSType;
-
-namespace MyMath
+﻿namespace MyMath
 {
     public struct Vector3D
     {

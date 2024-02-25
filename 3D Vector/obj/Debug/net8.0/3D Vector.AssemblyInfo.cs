@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("3D Vector")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f26a40864bccb6e20b5bd06cfbf08f8d6d10f77a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d7454bf098e427eceac97709acc69095287bb7f1")]
 [assembly: System.Reflection.AssemblyProductAttribute("3D Vector")]
 [assembly: System.Reflection.AssemblyTitleAttribute("3D Vector")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
